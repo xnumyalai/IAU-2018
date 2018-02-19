@@ -1,5 +1,5 @@
 # Zoznam príkladov na precvičenie spracovania zoznamu
-[english version][README_EN.md]
+[english version](README_EN.md)
 
 Su tu priklady na pristupovanie k roznym castiam zoznamov ako aj na list comprehension
 

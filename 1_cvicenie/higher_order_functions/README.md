@@ -1,5 +1,5 @@
 # Zoznam príkladov na precičenie si funkcii `map`, `reduce` a `filter`
-[english version][README_EN.md]
+[english version](README_EN.md)
 
 V niektorych prikladoch je vyhodne pouzit `lambda` vyraz.
 
