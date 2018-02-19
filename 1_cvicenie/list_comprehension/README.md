@@ -1,4 +1,5 @@
 # Zoznam príkladov na precvičenie spracovania zoznamu
+[english version][README_EN.md]
 
 Su tu priklady na pristupovanie k roznym castiam zoznamov ako aj na list comprehension
 
@@ -47,5 +48,5 @@ Vytvrote vsetky mozne dvojice, kde vzdy prvy prvok je z prveho zoznamu a druhy z
 
 18. Napiste funkciu, ktora vrati zoznam vsetkych dvojprvkovych kominacii prvkov zo zoznamu (bez opakovania, zalezi na poradi)
 
-19. Napiste funkciu, ktor anajde vsetky Pytagorovske trojice cisel `(x,y,z)` mensie ako `N`. Pytagorovske cisla su take, pre ktore plati `x*x + y*y == z*z`
+19. Napiste funkciu, ktora najde vsetky Pytagorovske trojice cisel `(x,y,z)` mensie ako `N`. Pytagorovske cisla su take, pre ktore plati `x*x + y*y == z*z`
 

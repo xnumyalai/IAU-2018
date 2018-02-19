@@ -1,4 +1,5 @@
 # Zoznam príkladov na precvičenie si lambda výrazov
+[english version][README_EN.md]
 
 Tychto prikladov je len velmi malo. 
 Lambda vyrazy sa pouzivaju aj v prikladoch k funkciam vyssej urovne a k spracovaniu zoznamu, takze zaujemcom odporucam poziet sa na tie.
