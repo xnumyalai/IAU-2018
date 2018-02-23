@@ -9,22 +9,39 @@ from collections import defaultdict
 
 # 1. Max of two numbers.
 def max_num( a, b ):
-    pass
+    if a > b: 
+           return a;
+       
+      else:
+           return b;
 
 
 # 2. Max of three numbers.
 def max_of_three( a, b, c ):
-        pass
+       if (a >= b) and (a >= c): 
+ +            return a;
+ +        elif (b >= a) and (b >= c):
+ +            return b;
+ +        else:
+ +            return c;
 
 
 # 3. Calculates the length of a string.
 def str_len( string ):
-    pass
+    counter =0
+    for i in string:
+        counter = counter+1
+        retrun counter;
+        
+    
 
 
 # 4. Returns whether the passed letter is a vowel.
 def is_vowel( letter ):
-    pass
+    if letter in ('a', 'e', 'i', 'o', 'u'):
+    return 1;
+    else:
+        return 0;
 
 
 # 5. Translates an English frase into `Robbers language`.
