@@ -9,12 +9,20 @@ from collections import defaultdict
 
 # 1. Max of two numbers.
 def max_num( a, b ):
-    pass
+    if a > b:
+        return a;
+    else: 
+        return b;
 
 
 # 2. Max of three numbers.
 def max_of_three( a, b, c ):
-        pass
+      if a > b && a > c: 
+            return a;
+        elif b > a && b > c:
+            return b;
+        else:
+            return c;
 
 
 # 3. Calculates the length of a string.
